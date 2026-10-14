@@ -1,0 +1,5 @@
+CONTAR - PWA
+Archivos: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png
+Subí TODOS los archivos juntos, en la misma carpeta, a un hosting con HTTPS (Netlify, GitHub Pages).
+Netlify: entrá a app.netlify.com/drop y arrastrá la carpeta descomprimida.
+Luego abrí el enlace en Chrome del celular > menú (3 puntos) > "Instalar app" / "Agregar a pantalla de inicio".
